@@ -8,7 +8,8 @@ class Main {
 
 		var dummy = new DummyModule();
 		trace(dummy.foo());
+		trace(dummy.bar);
 
-		MacroUtils.test();
+		// MacroUtils.test();
 	}
 }
