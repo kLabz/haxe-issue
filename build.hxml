@@ -1,4 +1,3 @@
---class-path src
+-cp src
 --macro addGlobalMetadata('', '@:build(MacroUtils.build())')
-# --macro addGlobalMetadata('pack', '@:build(MacroUtils.build())')
 --run Main
